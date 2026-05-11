@@ -1,0 +1,15 @@
+{
+	"name": "df-projectazure",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ac9ab0e4-9385-436c-a5d6-815dbbb67956",
+		"tenantId": "61e1b7d7-e2b7-43af-8006-a7a71412b437"
+	}
+}
